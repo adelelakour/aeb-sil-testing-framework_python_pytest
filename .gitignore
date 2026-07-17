@@ -12,11 +12,6 @@ __pycache__/
 .coverage
 htmlcov/
 
-# Test reports
-reports/
-*.html
-*.xml
-
 # IDE
 .vscode/
 .idea/
